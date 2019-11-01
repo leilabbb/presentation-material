@@ -1,5 +1,5 @@
-# OOI-notebooks-4-class
-using jupyter notebooks to help with class work
+# presentation-material
+
 
 # Installing Jupyter Notebooks
 
@@ -10,11 +10,11 @@ https://jupyter.readthedocs.io/en/latest/install.html#installing-jupyter-using-a
 **Step 2:**
 - Clone the OOI-notebooks-4-class repository
 
-terminal>> git clone https://github.com/leilabbb/OOI-notebooks-4-class.git
+terminal>> git clone https://github.com/leilabbb/presentation-material.git
 
 - Change your current working directory to the location that you downloaded OOI-notebooks-4-class
 
-terminal>> cd /Users/leila/Documents/repo/OOI-notebooks-4-class/
+terminal>> cd /Users/leila/Documents/repo/presentation-material/
 
 **Step 3:**
 - Activate the jupyter notebook:
