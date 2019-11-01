@@ -1,0 +1,19 @@
+{
+  "annotations": [
+    {
+      "node": null, 
+      "parameters": [], 
+      "stream": null, 
+      "exclusion_flag": false, 
+      "subsite": "GP03FLMB", 
+      "stop": "2017-07-17 15:02:00", 
+      "id": 157, 
+      "start": "2016-07-04 23:07:00", 
+      "qc_flag": null, 
+      "source": "lgarzio@marine.rutgers.edu", 
+      "method": null, 
+      "sensor": null, 
+      "annotation": "Deployment 4: Mooring was deployed 10m deeper than planned."
+    }
+  ]
+}
