@@ -1,6 +1,3 @@
-# presentation-material
-
-
 # Installing Jupyter Notebooks
 
 **Sept 1:** 
