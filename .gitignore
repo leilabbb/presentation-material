@@ -1,2 +1,55 @@
-.ipynb_checkpoints
+syntax: glob
+
+# notebooks checkpoint
+*.ipynb_checkpoints
+
+# Byte-compiled / optimized
+__pycache__/
+*.pyc
+*.pyo
+.cache/
+
+# coverage files
+.coverage
+.coverage.*
+
+# google drive settings
+*desktop.ini
+
+# PyCharm settings
+.idea/
+
+# Microsoft installers
+*.msi
+
+# Windows executable
+*.exe
+
+# Mac installers
+*.dmg
 .DS_Store
+
+# C extensions
+*.so
+*.pyd
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+_build/
+
+
+
